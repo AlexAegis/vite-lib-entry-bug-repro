@@ -1,0 +1,11 @@
+{
+  "name": "vite-lib-repro",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
